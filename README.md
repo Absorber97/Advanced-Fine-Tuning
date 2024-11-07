@@ -2,6 +2,9 @@
 
 A machine learning system that classifies drugs based on their primary medical conditions using a fine-tuned GPT model.
 
+- Google Slides: https://docs.google.com/presentation/d/1i1IAywC3Lu3CwfGmO9eUQStwEIZ1RBC5pmP-Ld4ikXU/edit?usp=sharing
+- Google Slides (PDF): https://drive.google.com/file/d/1d8xD0Dd70ui3kLHVJojhekTeNaVzSqZ8/view?usp=sharing
+
 ## Overview
 
 This system takes drug names as input and predicts which medical conditions they're primarily used to treat. It uses OpenAI's GPT-3.5-turbo model fine-tuned on a custom medical dataset.
